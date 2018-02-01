@@ -16,4 +16,4 @@ Output :
 
 ``` node braces.js n ```
 
-Where argument _n_ is equal to the numbe of pairs desired.
+Where argument _n_ is equal to the number of pairs desired.
